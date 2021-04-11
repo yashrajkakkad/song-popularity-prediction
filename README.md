@@ -20,10 +20,10 @@ Being able to predict popularity of a song based on metadata and attributes coul
 ### Classification
 
 #### ROC Curve
-![](Results/ROC_Curve.png)
+<img src="Results/ROC_Curve.png" width="400" height="300">
 
 #### Precision Recall Curve
-![](Results/Precision_Recall_Curve.png)
+<img src="Results/Precision_Recall_Curve.png" width="400" height="300">
 
 ### Ensemble Learning
 #### Random Forest generated Feature Importance
