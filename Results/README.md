@@ -1,4 +1,4 @@
-## Results
+# Results
 
 - `Precision-Recall curve.png`: Precision-Recall curve for classification algorithms viz. Logistic Regression, SVM, Decision Trees and Random Forest.
 - `ROC curve.png`: ROC curve for classification algorithms viz. Logistic Regression, SVM, Decision Trees and Random Forest.
