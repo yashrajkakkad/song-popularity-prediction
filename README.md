@@ -20,14 +20,19 @@ Being able to predict popularity of a song based on metadata and attributes coul
 ### Classification
 
 #### ROC Curve
-![](Results/ROC_Curve.png)
+<img src="Results/ROC_Curve.png" width="400" height="300">
 
 #### Precision Recall Curve
-![](Results/Precision_Recall_Curve.png)
+<img src="Results/Precision_Recall_Curve.png" width="400" height="300">
 
 ### Ensemble Learning
 #### Random Forest generated Feature Importance
-![](Results/Random_Forest_Feature_Importance.png)
+<img src="Results/Random_Forest_Feature_Importance.png" width="400" height="300">
+
+#### Adaptive Boosting Bayesian Optimization
+
+<img src="Results/AdaBoost_Bayesian_Optimization.png" width="400" height="300">
+
 
 ## References
 - Y. E. Ay, “Spotify dataset 1921-2020, 160k tracks (version 10n)” Jan 2021. [Online]. Available: https://www.kaggle.com/yamaerenay/spotifydataset-19212020-160k-tracks/version/10
