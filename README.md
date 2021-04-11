@@ -27,10 +27,11 @@ Being able to predict popularity of a song based on metadata and attributes coul
 
 ### Ensemble Learning
 #### Random Forest generated Feature Importance
-![](Results/Random_Forest_Feature_Importance.png)
+<img src="Results/Random_Forest_Feature_Importance.png" width="400" height="300">
 
 #### Adaptive Boosting Bayesian Optimization
-![](Results/AdaBoost_Bayesian_Optimization.png)
+
+<img src="Results/AdaBoost_Bayesian_Optimization.png" width="400" height="300">
 
 
 ## References
