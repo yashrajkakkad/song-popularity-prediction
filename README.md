@@ -29,6 +29,9 @@ Being able to predict popularity of a song based on metadata and attributes coul
 #### Random Forest generated Feature Importance
 ![](Results/Random_Forest_Feature_Importance.png)
 
+#### Adaptive Boosting Bayesian Optimization
+![](Results/AdaBoost_Bayesian_Optimization.png)
+
 ## References
 - Y. E. Ay, “Spotify dataset 1921-2020, 160k tracks (version 10n)” Jan 2021. [Online]. Available: https://www.kaggle.com/yamaerenay/spotifydataset-19212020-160k-tracks/version/10
 - F. Pedregosa, G. Varoquaux, A. Gramfort, V. Michel, B. Thirion, O. Grisel, M. Blondel, P. Prettenhofer, R. Weiss, V. Dubourg, J. Vanderplas, A. Passos, D. Cournapeau, M. Brucher, M. Perrot, and E. Duchesnay, “Scikit-learn: Machine learning in Python,” Journal of Machine Learning Research, vol. 12, pp. 2825–2830, 2011.
