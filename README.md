@@ -6,6 +6,28 @@
 Being able to predict popularity of a song based on metadata and attributes could be of great industrial importance. We aim to achieve this using machine learning techniques. We use data obtained from Spotify Web API which contains information of over 160,000 songs from 1921 to 2020. We perform the required pre-processing to test several regression and classification algorithms. Based on obtained results, we build ensemble learning models for classification. Models are tuned to give optimal test results. We infer that tree-based algorithms give competitive results in general. Due to imbalanced classification, the models are able to predict non-popular songs more easily than popular ones, where there's a high number of false negatives. 
 
 ## Results
+### Regression
+#### Linear Regression
+
+##### Root Mean Squared Error Plot (vs. Number of features)
+
+![](Results/RMSE.png)
+
+#### R2 Score Plot (vs. Number of features)
+
+![](Results/R2_Score.png)
+
+### Classification
+
+#### ROC Curve
+![](Results/ROC_Curve.png)
+
+#### Precision Recall Curve
+![](Results/Precision_Recall_Curve.png)
+
+### Ensemble Learning
+#### Random Forest generated Feature Importance
+![](Results/Random_Forest_Feature_Importance.png)
 
 ## References
 - Y. E. Ay, “Spotify dataset 1921-2020, 160k tracks (version 10n)” Jan 2021. [Online]. Available: https://www.kaggle.com/yamaerenay/spotifydataset-19212020-160k-tracks/version/10
